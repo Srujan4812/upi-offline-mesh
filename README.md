@@ -1,8 +1,11 @@
 # 🌐 UPI Offline Mesh 2.0: Mesh-Routed Deferred Settlement Payment Network
 
+> **🔗 Live Demo:** [https://upi-offline-mesh-306c.onrender.com/](https://upi-offline-mesh-306c.onrender.com/)
+
 UPI Offline Mesh 2.0 is a production-grade cryptographic showcase demonstrating **offline peer-to-peer payments** routed dynamically through an ad-hoc local mesh network (simulating Bluetooth BLE / Wi-Fi Direct) and settled automatically when any node reaches internet connectivity.
 
 This project features a robust **Spring Boot backend** (with integrated Redis deduplication, hybrid RSA + AES-GCM encryption, and ECDSA digital signatures) coupled with a stunning **cinematic React + TypeScript + Tailwind + React Flow dashboard** that visualizes packet propagation through nodes in real-time.
+
 
 ---
 
